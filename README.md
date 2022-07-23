@@ -2,4 +2,4 @@
 
 https://blogs.ntu.edu.sg/ps5888-2022-g17/
 
-Turret that uses Object Detection Model MobileNetV2
+Turret that uses Object Detection Model MobileNetV2 and NVDDIA's Jetson Nano
